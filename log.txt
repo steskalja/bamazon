@@ -1,0 +1,11 @@
+Tue Oct 02 2018 14:25:05 GMT-0400 
+Error: Cannot enqueue Quit after invoking quit.Tue Oct 02 2018 14:25:05 GMT-0400 
+Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'Tue Oct 02 2018 14:25:05 GMT-0400 
+Error [ERR_STREAM_WRITE_AFTER_END]: write after endTue Oct 02 2018 14:32:11 GMT-0400 
+Error: Cannot enqueue Quit after invoking quit.Tue Oct 02 2018 14:32:41 GMT-0400 
+Error: Quit inactivity timeoutTue Oct 02 2018 14:33:09 GMT-0400 
+Error: Cannot enqueue Quit after invoking quit.Tue Oct 02 2018 14:34:24 GMT-0400 
+Error: Cannot enqueue Quit after invoking quit.Tue Oct 02 2018 14:34:54 GMT-0400 
+Error: Quit inactivity timeoutTue Oct 02 2018 14:40:00 GMT-0400 
+Error: Cannot enqueue Quit after invoking quit.Tue Oct 02 2018 14:40:30 GMT-0400 
+Error: Quit inactivity timeout
